@@ -58,10 +58,8 @@ def call(sentence):
 
     return guess
 
-sentence = "Các phát thank viên dẫn cương trink"
 #sentence = "Hom lay tooi đi hoc"
 sentence ='Tôi ko yêu thích họk ngôn ngữ mớj'
 #sentence = 'Thnh pố Hồ Chí Mình là mộp địa điểm du lịch nổi tiếg'
-#sentence = 'Các phát thank viên, ngưowfi dẫn chương trìnk đeu là cac chuyeen gja sử dụng ngôn ngữ. Thế nkưng đa phần họ ềđu cho rằng mìnk ko có khiếu ăn nosi từ nkỏ, vậy tạo sao hoj vẫn thafnh công nkờ vào tài ăn nói của mìnk? Nguyên nkân rất đơn giản, đó là vì họ tự nkận thấy mìnk nói năng ko tốt, nên luôn cố gắng để nâng cao kĩ năng giao tiế'
 guess = call(sentence)
 print(guess)
