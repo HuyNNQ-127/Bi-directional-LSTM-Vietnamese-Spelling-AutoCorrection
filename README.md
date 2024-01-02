@@ -6,5 +6,5 @@ Dataset is taken from VNTQ dataset(Duy Hoang et al 2007) that is a collection of
 
 ## Model Architecture
 <p align="center">
-  <img src="https://github.com/HuyNNQ-127/Bi-directional-LSTM-Vietnamese-Spelling-AutoCorrection/blob/main/assets/model.png" width="222" height="322">
+  <img src="https://github.com/HuyNNQ-127/Bi-directional-LSTM-Vietnamese-Spelling-AutoCorrection/blob/main/assets/model.png">
 </p>
